@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.text.DecimalFormat;
 
-public class ImcCalculatorGUI {
+public class calculadora IMC SWING {
 
     public void drawFrame() {
 
